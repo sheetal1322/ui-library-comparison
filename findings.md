@@ -27,7 +27,7 @@ The dashboard included:
 | Styling dependencies | Emotion | Built-in styling system | Built-in styling system |
 | Icon package | @mui/icons-material | @ant-design/icons | @tabler/icons-react |
 | Setup experience | Standard Vite and dependency setup | Installation and configuration, with network issues during the process | Straightforward setup; packages needed to be reinstalled in the correct project directory |
-| Time observation | Not stopwatch-measured; typical setup estimated at 4–9 minutes | 37 minutes total elapsed, including network issues and coding errors; setup time not isolated | Approximately 7 minutes for initial project creation and installation, plus additional reinstall time |
+| Time observation | Not stopwatch-measured; typical setup estimated at 4–9 minutes | 37 minutes total elapsed, including network issues and coding errors; setup time not isolated | Approximately 7 minutes for initial project creation and installation. |
 
 *Installation times depend on network speed and system performance. The recorded elapsed times should not be interpreted as controlled benchmarks.*
 
